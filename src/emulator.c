@@ -8,7 +8,7 @@
 * stack - 256 bytes
 * 3 general purpose registers
 * 
-* Designed modified from this project: https://github.com/davepoo/6502Emulator
+* Designed and modified from this project: https://github.com/davepoo/6502Emulator
 */
 
 const static int MAIN_MEMORY_SIZE = 1024 * 64;
